@@ -32,21 +32,21 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 
 |   인덱스 | 이름                                     | 난이도   | 연습                                                                                                                         |
 |----------|------------------------------------------|----------|------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 Hydra 를 이용한 비밀번호 크래킹       | ★★☆      | <a target='_blank' href='https://labex.io/ko/tutorials/linux-using-hydra-to-crack-passwords-415960'>실습 시작</a>            |
-|       02 | 🎯 특정 사용자 계정 크래킹               | ★★☆      | <a target='_blank' href='https://labex.io/ko/tutorials/linux-cracking-a-specific-user-account-415951'>도전 시작</a>          |
-|       03 | 📖 Nmap 을 이용한 네트워크 스캔          | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/nmap-network-scanning-with-nmap-415959'>실습 시작</a>                 |
-|       04 | 🎯 Nmap 으로 서브넷 스캔                 | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/nmap-scanning-subnet-with-nmap-415954'>도전 시작</a>                  |
-|       05 | 📖 OpenSSL 을 이용한 암호화 소개         | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/linux-introduction-to-encryption-with-openssl-415957'>실습 시작</a>   |
-|       06 | 🎯 최고 기밀 문서 해독                   | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/linux-decrypting-top-secret-document-415952'>도전 시작</a>            |
-|       07 | 📖 Netcat 을 활용한 간단한 네트워크 통신 | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/linux-using-netcat-for-simple-network-communication-415961'>실습 시작</a>  |
-|       08 | 🎯 Netcat 을 사용하여 메시지 수신        | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/linux-receive-messages-using-netcat-415953'>도전 시작</a>             |
-|       09 | 📖 Wireshark 를 이용한 네트워크 분석     | ★★☆      | <a target='_blank' href='https://labex.io/ko/tutorials/wireshark-network-analysis-with-wireshark-415958'>실습 시작</a>       |
-|       10 | 🎯 Wireshark 로 Google 트래픽 캡처하기   | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/wireshark-capture-google-traffic-with-wireshark-415948'>도전 시작</a> |
-|       11 | 📖 Hydra 를 이용한 SSH 무차별 대입 공격  | ★★☆      | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-brute-force-ssh-in-hydra-549926'>실습 시작</a>                  |
+|       01 | 📖 Hydra 를 이용한 비밀번호 크래킹       | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-using-hydra-to-crack-passwords-415960'>실습 시작</a>            |
+|       02 | 🎯 특정 사용자 계정 크래킹               | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-cracking-a-specific-user-account-415951'>도전 시작</a>          |
+|       03 | 📖 Nmap 을 이용한 네트워크 스캔          | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/nmap-network-scanning-with-nmap-415959'>실습 시작</a>                 |
+|       04 | 🎯 Nmap 으로 서브넷 스캔                 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/nmap-scanning-subnet-with-nmap-415954'>도전 시작</a>                  |
+|       05 | 📖 OpenSSL 을 이용한 암호화 소개         | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-introduction-to-encryption-with-openssl-415957'>실습 시작</a>   |
+|       06 | 🎯 최고 기밀 문서 해독                   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-decrypting-top-secret-document-415952'>도전 시작</a>            |
+|       07 | 📖 Netcat 을 활용한 간단한 네트워크 통신 | 초급     | <a target='_blank' href='https://labex.io/ko/labs/linux-using-netcat-for-simple-network-communication-415961'>실습 시작</a>  |
+|       08 | 🎯 Netcat 을 사용하여 메시지 수신        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-receive-messages-using-netcat-415953'>도전 시작</a>             |
+|       09 | 📖 Wireshark 를 이용한 네트워크 분석     | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/wireshark-network-analysis-with-wireshark-415958'>실습 시작</a>       |
+|       10 | 🎯 Wireshark 로 Google 트래픽 캡처하기   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/wireshark-capture-google-traffic-with-wireshark-415948'>도전 시작</a> |
+|       11 | 📖 Hydra 를 이용한 SSH 무차별 대입 공격  | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-brute-force-ssh-in-hydra-549926'>실습 시작</a>                  |
 
 ## 더 보기
 
-- 🔗 [Cybersecurity Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Cybersecurity Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Cybersecurity Free Tutorials](https://github.com/labex-labs/cybersecurity-free-tutorials)
+- 🔗 [Cybersecurity 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Cybersecurity 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Cybersecurity 무료 튜토리얼](https://github.com/labex-labs/cybersecurity-free-tutorials)
 
