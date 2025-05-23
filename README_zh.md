@@ -26,27 +26,27 @@ LabEx 是一个专注于编程和技术的交互式动手学习平台。它结�
 - 不断增长的学习资源，包含 30 个技能树和超过 6,000 个实验。
 - 基于 ChatGPT 构建的 AI 学习助手 Labby，提供对话式学习体验。
 
-了解更多关于 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+了解更多 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
 
 ## 练习
 
 |   序号 | 名称                               | 难度   | 练习                                                                                                                        |
 |--------|------------------------------------|--------|-----------------------------------------------------------------------------------------------------------------------------|
-|     01 | 📖 使用 Hydra 破解密码             | ★★☆    | <a target='_blank' href='https://labex.io/zh/tutorials/linux-using-hydra-to-crack-passwords-415960'>开始实验</a>            |
-|     02 | 🎯 破解特定用户账户                | ★★☆    | <a target='_blank' href='https://labex.io/zh/tutorials/linux-cracking-a-specific-user-account-415951'>开始挑战</a>          |
-|     03 | 📖 使用 Nmap 进行网络扫描          | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-network-scanning-with-nmap-415959'>开始实验</a>                 |
-|     04 | 🎯 使用 Nmap 扫描子网              | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-scanning-subnet-with-nmap-415954'>开始挑战</a>                  |
-|     05 | 📖 OpenSSL 加密入门                | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/linux-introduction-to-encryption-with-openssl-415957'>开始实验</a>   |
-|     06 | 🎯 解密绝密文件                    | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/linux-decrypting-top-secret-document-415952'>开始挑战</a>            |
-|     07 | 📖 使用 Netcat 进行简单的网络通信  | ★☆☆    | <a target='_blank' href='https://labex.io/zh/labs/linux-using-netcat-for-simple-network-communication-415961'>开始实验</a>  |
-|     08 | 🎯 使用 Netcat 接收消息            | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/linux-receive-messages-using-netcat-415953'>开始挑战</a>             |
-|     09 | 📖 使用 Wireshark 进行网络分析     | ★★☆    | <a target='_blank' href='https://labex.io/zh/tutorials/wireshark-network-analysis-with-wireshark-415958'>开始实验</a>       |
-|     10 | 🎯 使用 Wireshark 捕获 Google 流量 | ★☆☆    | <a target='_blank' href='https://labex.io/zh/tutorials/wireshark-capture-google-traffic-with-wireshark-415948'>开始挑战</a> |
-|     11 | 📖 使用 Hydra 暴力破解 SSH         | ★★☆    | <a target='_blank' href='https://labex.io/zh/tutorials/hydra-brute-force-ssh-in-hydra-549926'>开始实验</a>                  |
+|     01 | 📖 使用 Hydra 破解密码             | 中级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-using-hydra-to-crack-passwords-415960'>开始实验</a>            |
+|     02 | 🎯 破解特定用户账户                | 中级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-cracking-a-specific-user-account-415951'>开始挑战</a>          |
+|     03 | 📖 使用 Nmap 进行网络扫描          | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-network-scanning-with-nmap-415959'>开始实验</a>                 |
+|     04 | 🎯 使用 Nmap 扫描子网              | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-scanning-subnet-with-nmap-415954'>开始挑战</a>                  |
+|     05 | 📖 OpenSSL 加密入门                | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-introduction-to-encryption-with-openssl-415957'>开始实验</a>   |
+|     06 | 🎯 解密绝密文件                    | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-decrypting-top-secret-document-415952'>开始挑战</a>            |
+|     07 | 📖 使用 Netcat 进行简单的网络通信  | 初级   | <a target='_blank' href='https://labex.io/zh/labs/linux-using-netcat-for-simple-network-communication-415961'>开始实验</a>  |
+|     08 | 🎯 使用 Netcat 接收消息            | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-receive-messages-using-netcat-415953'>开始挑战</a>             |
+|     09 | 📖 使用 Wireshark 进行网络分析     | 中级   | <a target='_blank' href='https://labex.io/zh/tutorials/wireshark-network-analysis-with-wireshark-415958'>开始实验</a>       |
+|     10 | 🎯 使用 Wireshark 捕获 Google 流量 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/wireshark-capture-google-traffic-with-wireshark-415948'>开始挑战</a> |
+|     11 | 📖 使用 Hydra 暴力破解 SSH         | 中级   | <a target='_blank' href='https://labex.io/zh/tutorials/hydra-brute-force-ssh-in-hydra-549926'>开始实验</a>                  |
 
 ## 更多
 
-- 🔗 [Cybersecurity Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Cybersecurity Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Cybersecurity Free Tutorials](https://github.com/labex-labs/cybersecurity-free-tutorials)
+- 🔗 [Cybersecurity 编程课程](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Cybersecurity 编程项目](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Cybersecurity 免费教程](https://github.com/labex-labs/cybersecurity-free-tutorials)
 
