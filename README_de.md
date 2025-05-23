@@ -32,21 +32,21 @@ Erfahren Sie mehr über [LabEx VM](https://support.labex.io/using-labex/virtual-
 
 |   Index | Name                                                | Schwierigkeit   | Übung                                                                                                                                |
 |---------|-----------------------------------------------------|-----------------|--------------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Passwörter mit Hydra knacken                     | ★★☆             | <a target='_blank' href='https://labex.io/de/tutorials/linux-using-hydra-to-crack-passwords-415960'>Labor Starten</a>                |
-|      02 | 🎯 Knacken eines bestimmten Benutzerkontos          | ★★☆             | <a target='_blank' href='https://labex.io/de/tutorials/linux-cracking-a-specific-user-account-415951'>Challenge Starten</a>          |
-|      03 | 📖 Netzwerk-Scanning mit Nmap                       | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/nmap-network-scanning-with-nmap-415959'>Labor Starten</a>                     |
-|      04 | 🎯 Subnetz-Scan mit Nmap                            | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/nmap-scanning-subnet-with-nmap-415954'>Challenge Starten</a>                  |
-|      05 | 📖 Einführung in die Verschlüsselung mit OpenSSL    | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/linux-introduction-to-encryption-with-openssl-415957'>Labor Starten</a>       |
-|      06 | 🎯 Entschlüsselung eines streng geheimen Dokuments  | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/linux-decrypting-top-secret-document-415952'>Challenge Starten</a>            |
-|      07 | 📖 Netcat für einfache Netzwerkkommunikation nutzen | ★☆☆             | <a target='_blank' href='https://labex.io/de/labs/linux-using-netcat-for-simple-network-communication-415961'>Labor Starten</a>      |
-|      08 | 🎯 Nachrichten mit Netcat empfangen                 | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/linux-receive-messages-using-netcat-415953'>Challenge Starten</a>             |
-|      09 | 📖 Netzwerkanalyse mit Wireshark                    | ★★☆             | <a target='_blank' href='https://labex.io/de/tutorials/wireshark-network-analysis-with-wireshark-415958'>Labor Starten</a>           |
-|      10 | 🎯 Google-Traffic mit Wireshark erfassen            | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/wireshark-capture-google-traffic-with-wireshark-415948'>Challenge Starten</a> |
-|      11 | 📖 Brute-Force-Angriff auf SSH mit Hydra            | ★★☆             | <a target='_blank' href='https://labex.io/de/tutorials/hydra-brute-force-ssh-in-hydra-549926'>Labor Starten</a>                      |
+|      01 | 📖 Passwörter mit Hydra knacken                     | Fortgeschritten | <a target='_blank' href='https://labex.io/de/tutorials/linux-using-hydra-to-crack-passwords-415960'>Labor Starten</a>                |
+|      02 | 🎯 Knacken eines bestimmten Benutzerkontos          | Fortgeschritten | <a target='_blank' href='https://labex.io/de/tutorials/linux-cracking-a-specific-user-account-415951'>Challenge Starten</a>          |
+|      03 | 📖 Netzwerk-Scanning mit Nmap                       | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/nmap-network-scanning-with-nmap-415959'>Labor Starten</a>                     |
+|      04 | 🎯 Subnetz-Scan mit Nmap                            | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/nmap-scanning-subnet-with-nmap-415954'>Challenge Starten</a>                  |
+|      05 | 📖 Einführung in die Verschlüsselung mit OpenSSL    | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-introduction-to-encryption-with-openssl-415957'>Labor Starten</a>       |
+|      06 | 🎯 Entschlüsselung eines streng geheimen Dokuments  | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-decrypting-top-secret-document-415952'>Challenge Starten</a>            |
+|      07 | 📖 Netcat für einfache Netzwerkkommunikation nutzen | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/linux-using-netcat-for-simple-network-communication-415961'>Labor Starten</a>      |
+|      08 | 🎯 Nachrichten mit Netcat empfangen                 | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-receive-messages-using-netcat-415953'>Challenge Starten</a>             |
+|      09 | 📖 Netzwerkanalyse mit Wireshark                    | Fortgeschritten | <a target='_blank' href='https://labex.io/de/tutorials/wireshark-network-analysis-with-wireshark-415958'>Labor Starten</a>           |
+|      10 | 🎯 Google-Traffic mit Wireshark erfassen            | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/wireshark-capture-google-traffic-with-wireshark-415948'>Challenge Starten</a> |
+|      11 | 📖 Brute-Force-Angriff auf SSH mit Hydra            | Fortgeschritten | <a target='_blank' href='https://labex.io/de/tutorials/hydra-brute-force-ssh-in-hydra-549926'>Labor Starten</a>                      |
 
 ## Mehr
 
-- 🔗 [Cybersecurity Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Cybersecurity Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Cybersecurity Free Tutorials](https://github.com/labex-labs/cybersecurity-free-tutorials)
+- 🔗 [Cybersecurity Programmierungskurse](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Cybersecurity Programmierprojekte](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Cybersecurity Kostenlose Tutorials](https://github.com/labex-labs/cybersecurity-free-tutorials)
 
