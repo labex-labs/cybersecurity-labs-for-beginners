@@ -32,21 +32,21 @@ LabEx は、コーディングとテクノロジーに特化したインタラ�
 
 |   インデックス | 名前                                                | 難易度   | 練習                                                                                                                                |
 |----------------|-----------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------------|
-|             01 | 📖 Hydra を使用したパスワードクラッキング           | ★★☆      | <a target='_blank' href='https://labex.io/ja/tutorials/linux-using-hydra-to-crack-passwords-415960'>ラボを開始</a>                  |
-|             02 | 🎯 特定のユーザーアカウントのクラッキング           | ★★☆      | <a target='_blank' href='https://labex.io/ja/tutorials/linux-cracking-a-specific-user-account-415951'>チャレンジを開始</a>          |
-|             03 | 📖 Nmap を使用したネットワークスキャン              | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/nmap-network-scanning-with-nmap-415959'>ラボを開始</a>                       |
-|             04 | 🎯 Nmap を使用したサブネットのスキャン              | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/nmap-scanning-subnet-with-nmap-415954'>チャレンジを開始</a>                  |
-|             05 | 📖 OpenSSL を使用した暗号化入門                     | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/linux-introduction-to-encryption-with-openssl-415957'>ラボを開始</a>         |
-|             06 | 🎯 極秘文書の解読                                   | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/linux-decrypting-top-secret-document-415952'>チャレンジを開始</a>            |
-|             07 | 📖 Netcat を使用したシンプルなネットワーク通信      | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/linux-using-netcat-for-simple-network-communication-415961'>ラボを開始</a>        |
-|             08 | 🎯 Netcat を使用してメッセージを受信する            | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/linux-receive-messages-using-netcat-415953'>チャレンジを開始</a>             |
-|             09 | 📖 Wireshark を使用したネットワーク分析             | ★★☆      | <a target='_blank' href='https://labex.io/ja/tutorials/wireshark-network-analysis-with-wireshark-415958'>ラボを開始</a>             |
-|             10 | 🎯 Wireshark で Google トラフィックをキャプチャする | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/wireshark-capture-google-traffic-with-wireshark-415948'>チャレンジを開始</a> |
-|             11 | 📖 Hydra で SSH ブルートフォース攻撃                | ★★☆      | <a target='_blank' href='https://labex.io/ja/tutorials/hydra-brute-force-ssh-in-hydra-549926'>ラボを開始</a>                        |
+|             01 | 📖 Hydra を使用したパスワードクラッキング           | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-using-hydra-to-crack-passwords-415960'>ラボを開始</a>                  |
+|             02 | 🎯 特定のユーザーアカウントのクラッキング           | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-cracking-a-specific-user-account-415951'>チャレンジを開始</a>          |
+|             03 | 📖 Nmap を使用したネットワークスキャン              | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/nmap-network-scanning-with-nmap-415959'>ラボを開始</a>                       |
+|             04 | 🎯 Nmap を使用したサブネットのスキャン              | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/nmap-scanning-subnet-with-nmap-415954'>チャレンジを開始</a>                  |
+|             05 | 📖 OpenSSL を使用した暗号化入門                     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-introduction-to-encryption-with-openssl-415957'>ラボを開始</a>         |
+|             06 | 🎯 極秘文書の解読                                   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-decrypting-top-secret-document-415952'>チャレンジを開始</a>            |
+|             07 | 📖 Netcat を使用したシンプルなネットワーク通信      | 初級     | <a target='_blank' href='https://labex.io/ja/labs/linux-using-netcat-for-simple-network-communication-415961'>ラボを開始</a>        |
+|             08 | 🎯 Netcat を使用してメッセージを受信する            | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-receive-messages-using-netcat-415953'>チャレンジを開始</a>             |
+|             09 | 📖 Wireshark を使用したネットワーク分析             | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/wireshark-network-analysis-with-wireshark-415958'>ラボを開始</a>             |
+|             10 | 🎯 Wireshark で Google トラフィックをキャプチャする | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/wireshark-capture-google-traffic-with-wireshark-415948'>チャレンジを開始</a> |
+|             11 | 📖 Hydra で SSH ブルートフォース攻撃                | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/hydra-brute-force-ssh-in-hydra-549926'>ラボを開始</a>                        |
 
 ## その他
 
-- 🔗 [Cybersecurity Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Cybersecurity Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Cybersecurity Free Tutorials](https://github.com/labex-labs/cybersecurity-free-tutorials)
+- 🔗 [Cybersecurity プログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Cybersecurity プログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Cybersecurity 無料チュートリアル](https://github.com/labex-labs/cybersecurity-free-tutorials)
 
