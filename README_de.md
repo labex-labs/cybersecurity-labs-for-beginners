@@ -14,6 +14,22 @@ Entdecken Sie die Grundlagen der Cybersicherheit durch interaktive, anfängerfre
 ![Linux](https://img.shields.io/badge/Linux-whitesmoke?style=for-the-badge&logo=linux)
 
 
+## Übungen
+
+|   Index | Name                                                   | Schwierigkeit   | Übung                                                                                                                                |
+|---------|--------------------------------------------------------|-----------------|--------------------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 🟢 Passwörter mit Hydra knacken                     | Fortgeschritten | <a target='_blank' href='https://labex.io/de/tutorials/linux-using-hydra-to-crack-passwords-415960'>Labor Starten</a>                |
+|      02 | 🎯 🟢 Knacken eines bestimmten Benutzerkontos          | Fortgeschritten | <a target='_blank' href='https://labex.io/de/tutorials/linux-cracking-a-specific-user-account-415951'>Challenge Starten</a>          |
+|      03 | 📖 🟢 Netzwerk-Scanning mit Nmap                       | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/nmap-network-scanning-with-nmap-415959'>Labor Starten</a>                     |
+|      04 | 🎯 🟢 Subnetz-Scan mit Nmap                            | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/nmap-scanning-subnet-with-nmap-415954'>Challenge Starten</a>                  |
+|      05 | 📖 🟢 Einführung in die Verschlüsselung mit OpenSSL    | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-introduction-to-encryption-with-openssl-415957'>Labor Starten</a>       |
+|      06 | 🎯 🟢 Entschlüsselung eines streng geheimen Dokuments  | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-decrypting-top-secret-document-415952'>Challenge Starten</a>            |
+|      07 | 📖 🟢 Netcat für einfache Netzwerkkommunikation nutzen | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/linux-using-netcat-for-simple-network-communication-415961'>Labor Starten</a>      |
+|      08 | 🎯 🟢 Nachrichten mit Netcat empfangen                 | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-receive-messages-using-netcat-415953'>Challenge Starten</a>             |
+|      09 | 📖 🔵 Netzwerkanalyse mit Wireshark                    | Fortgeschritten | <a target='_blank' href='https://labex.io/de/tutorials/wireshark-network-analysis-with-wireshark-415958'>Labor Starten</a>           |
+|      10 | 🎯 🔵 Google-Traffic mit Wireshark erfassen            | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/wireshark-capture-google-traffic-with-wireshark-415948'>Challenge Starten</a> |
+|      11 | 📖 🟢 Brute-Force-Angriff auf SSH mit Hydra            | Fortgeschritten | <a target='_blank' href='https://labex.io/de/tutorials/hydra-brute-force-ssh-in-hydra-549926'>Labor Starten</a>                      |
+
 ## Umgebung
 
 LabEx ist eine interaktive, praktische Lernplattform für Programmierung und Technologie. Sie kombiniert Labore, KI-Unterstützung und virtuelle Maschinen für eine videofreie, praktische Lernerfahrung.
@@ -24,25 +40,9 @@ LabEx ist eine interaktive, praktische Lernplattform für Programmierung und Tec
 - Interaktive Online-Umgebungen im Browser mit automatisierten Schritt-für-Schritt-Überprüfungen.
 - Eine strukturierte Inhaltsorganisation mit dem Skill-Tree-basierten System.
 - Eine wachsende Lernressource von 30 Skill Trees und über 6.000 Laboren.
-- Der KI-Lernassistent Labby, aufgebaut auf ChatGPT, bietet eine konversationelle Lernerfahrung.
+- Der Lernassistent Labby, aufgebaut auf den neuesten KI-Modellen, bietet eine konversationelle Lernerfahrung.
 
 Erfahren Sie mehr über [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## Übungen
-
-|   Index | Name                                                | Schwierigkeit   | Übung                                                                                                                                |
-|---------|-----------------------------------------------------|-----------------|--------------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Passwörter mit Hydra knacken                     | Fortgeschritten | <a target='_blank' href='https://labex.io/de/tutorials/linux-using-hydra-to-crack-passwords-415960'>Labor Starten</a>                |
-|      02 | 🎯 Knacken eines bestimmten Benutzerkontos          | Fortgeschritten | <a target='_blank' href='https://labex.io/de/tutorials/linux-cracking-a-specific-user-account-415951'>Challenge Starten</a>          |
-|      03 | 📖 Netzwerk-Scanning mit Nmap                       | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/nmap-network-scanning-with-nmap-415959'>Labor Starten</a>                     |
-|      04 | 🎯 Subnetz-Scan mit Nmap                            | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/nmap-scanning-subnet-with-nmap-415954'>Challenge Starten</a>                  |
-|      05 | 📖 Einführung in die Verschlüsselung mit OpenSSL    | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-introduction-to-encryption-with-openssl-415957'>Labor Starten</a>       |
-|      06 | 🎯 Entschlüsselung eines streng geheimen Dokuments  | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-decrypting-top-secret-document-415952'>Challenge Starten</a>            |
-|      07 | 📖 Netcat für einfache Netzwerkkommunikation nutzen | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/linux-using-netcat-for-simple-network-communication-415961'>Labor Starten</a>      |
-|      08 | 🎯 Nachrichten mit Netcat empfangen                 | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-receive-messages-using-netcat-415953'>Challenge Starten</a>             |
-|      09 | 📖 Netzwerkanalyse mit Wireshark                    | Fortgeschritten | <a target='_blank' href='https://labex.io/de/tutorials/wireshark-network-analysis-with-wireshark-415958'>Labor Starten</a>           |
-|      10 | 🎯 Google-Traffic mit Wireshark erfassen            | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/wireshark-capture-google-traffic-with-wireshark-415948'>Challenge Starten</a> |
-|      11 | 📖 Brute-Force-Angriff auf SSH mit Hydra            | Fortgeschritten | <a target='_blank' href='https://labex.io/de/tutorials/hydra-brute-force-ssh-in-hydra-549926'>Labor Starten</a>                      |
 
 ## Mehr
 
