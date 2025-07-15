@@ -14,6 +14,22 @@ Explorez les bases de la sécurité informatique grâce à des laboratoires inte
 ![Linux](https://img.shields.io/badge/Linux-whitesmoke?style=for-the-badge&logo=linux)
 
 
+## Exercices
+
+|   Index | Nom                                                         | Difficulté    | Pratique                                                                                                                             |
+|---------|-------------------------------------------------------------|---------------|--------------------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 🟢 Utilisation d'Hydra pour le craquage de mots de pa... | Intermédiaire | <a target='_blank' href='https://labex.io/fr/tutorials/linux-using-hydra-to-crack-passwords-415960'>Commencer le Lab</a>             |
+|      02 | 🎯 🟢 Pirater un compte utilisateur spécifique              | Intermédiaire | <a target='_blank' href='https://labex.io/fr/tutorials/linux-cracking-a-specific-user-account-415951'>Commencer le Défi</a>          |
+|      03 | 📖 🟢 Analyse de réseau avec Nmap                           | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/nmap-network-scanning-with-nmap-415959'>Commencer le Lab</a>                  |
+|      04 | 🎯 🟢 Scanner un sous-réseau avec Nmap                      | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/nmap-scanning-subnet-with-nmap-415954'>Commencer le Défi</a>                  |
+|      05 | 📖 🟢 Introduction au chiffrement avec OpenSSL              | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/linux-introduction-to-encryption-with-openssl-415957'>Commencer le Lab</a>    |
+|      06 | 🎯 🟢 Déchiffrer un document top secret                     | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/linux-decrypting-top-secret-document-415952'>Commencer le Défi</a>            |
+|      07 | 📖 🟢 Utilisation de Netcat pour une communication résea... | Débutant      | <a target='_blank' href='https://labex.io/fr/labs/linux-using-netcat-for-simple-network-communication-415961'>Commencer le Lab</a>   |
+|      08 | 🎯 🟢 Recevoir des messages avec Netcat                     | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/linux-receive-messages-using-netcat-415953'>Commencer le Défi</a>             |
+|      09 | 📖 🔵 Analyse de réseau avec Wireshark                      | Intermédiaire | <a target='_blank' href='https://labex.io/fr/tutorials/wireshark-network-analysis-with-wireshark-415958'>Commencer le Lab</a>        |
+|      10 | 🎯 🔵 Capturer le trafic Google avec Wireshark              | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/wireshark-capture-google-traffic-with-wireshark-415948'>Commencer le Défi</a> |
+|      11 | 📖 🟢 Attaque par force brute SSH avec Hydra                | Intermédiaire | <a target='_blank' href='https://labex.io/fr/tutorials/hydra-brute-force-ssh-in-hydra-549926'>Commencer le Lab</a>                   |
+
 ## Environnement
 
 LabEx est une plateforme d'apprentissage interactive et pratique dédiée au codage et à la technologie. Elle combine des laboratoires, une assistance IA et des machines virtuelles pour offrir une expérience d'apprentissage pratique sans vidéo.
@@ -24,25 +40,9 @@ LabEx est une plateforme d'apprentissage interactive et pratique dédiée au cod
 - Des environnements en ligne interactifs dans le navigateur, avec des vérifications automatisées étape par étape.
 - Une organisation structurée du contenu avec le système basé sur l'Arbre de Compétences.
 - Une ressource d'apprentissage croissante de 30 Arbres de Compétences et plus de 6 000 Laboratoires.
-- L'assistant d'apprentissage IA Labby, construit sur ChatGPT, offrant une expérience d'apprentissage conversationnelle.
+- L'assistant d'apprentissage Labby, construit sur les derniers modèles d'IA, offrant une expérience d'apprentissage conversationnelle.
 
 En savoir plus sur [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
-
-## Exercices
-
-|   Index | Nom                                                      | Difficulté    | Pratique                                                                                                                             |
-|---------|----------------------------------------------------------|---------------|--------------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Utilisation d'Hydra pour le craquage de mots de pa... | Intermédiaire | <a target='_blank' href='https://labex.io/fr/tutorials/linux-using-hydra-to-crack-passwords-415960'>Commencer le Lab</a>             |
-|      02 | 🎯 Pirater un compte utilisateur spécifique              | Intermédiaire | <a target='_blank' href='https://labex.io/fr/tutorials/linux-cracking-a-specific-user-account-415951'>Commencer le Défi</a>          |
-|      03 | 📖 Analyse de réseau avec Nmap                           | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/nmap-network-scanning-with-nmap-415959'>Commencer le Lab</a>                  |
-|      04 | 🎯 Scanner un sous-réseau avec Nmap                      | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/nmap-scanning-subnet-with-nmap-415954'>Commencer le Défi</a>                  |
-|      05 | 📖 Introduction au chiffrement avec OpenSSL              | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/linux-introduction-to-encryption-with-openssl-415957'>Commencer le Lab</a>    |
-|      06 | 🎯 Déchiffrer un document top secret                     | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/linux-decrypting-top-secret-document-415952'>Commencer le Défi</a>            |
-|      07 | 📖 Utilisation de Netcat pour une communication résea... | Débutant      | <a target='_blank' href='https://labex.io/fr/labs/linux-using-netcat-for-simple-network-communication-415961'>Commencer le Lab</a>   |
-|      08 | 🎯 Recevoir des messages avec Netcat                     | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/linux-receive-messages-using-netcat-415953'>Commencer le Défi</a>             |
-|      09 | 📖 Analyse de réseau avec Wireshark                      | Intermédiaire | <a target='_blank' href='https://labex.io/fr/tutorials/wireshark-network-analysis-with-wireshark-415958'>Commencer le Lab</a>        |
-|      10 | 🎯 Capturer le trafic Google avec Wireshark              | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/wireshark-capture-google-traffic-with-wireshark-415948'>Commencer le Défi</a> |
-|      11 | 📖 Attaque par force brute SSH avec Hydra                | Intermédiaire | <a target='_blank' href='https://labex.io/fr/tutorials/hydra-brute-force-ssh-in-hydra-549926'>Commencer le Lab</a>                   |
 
 ## Plus
 
