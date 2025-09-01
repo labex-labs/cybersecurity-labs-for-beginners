@@ -24,11 +24,20 @@ Entdecken Sie die Grundlagen der Cybersicherheit durch interaktive, anfängerfre
 |      04 | 🎯 🟢 Subnetz-Scan mit Nmap                            | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/nmap-scanning-subnet-with-nmap-415954'>Challenge Starten</a>                  |
 |      05 | 📖 🟢 Einführung in die Verschlüsselung mit OpenSSL    | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-introduction-to-encryption-with-openssl-415957'>Labor Starten</a>       |
 |      06 | 🎯 🟢 Entschlüsselung eines streng geheimen Dokuments  | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-decrypting-top-secret-document-415952'>Challenge Starten</a>            |
-|      07 | 📖 🟢 Netcat für einfache Netzwerkkommunikation nutzen | Anfänger        | <a target='_blank' href='https://labex.io/de/labs/linux-using-netcat-for-simple-network-communication-415961'>Labor Starten</a>      |
-|      08 | 🎯 🟢 Nachrichten mit Netcat empfangen                 | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-receive-messages-using-netcat-415953'>Challenge Starten</a>             |
+|      07 | 📖 🟢 Netcat für einfache Netzwerkkommunikation nutzen | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-using-netcat-for-simple-network-communication-415961'>Labor Starten</a> |
+|      08 | 🎯 🔵 Nachrichten mit Netcat empfangen                 | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-receive-messages-using-netcat-415953'>Challenge Starten</a>             |
 |      09 | 📖 🔵 Netzwerkanalyse mit Wireshark                    | Fortgeschritten | <a target='_blank' href='https://labex.io/de/tutorials/wireshark-network-analysis-with-wireshark-415958'>Labor Starten</a>           |
 |      10 | 🎯 🔵 Google-Traffic mit Wireshark erfassen            | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/wireshark-capture-google-traffic-with-wireshark-415948'>Challenge Starten</a> |
-|      11 | 📖 🟢 Brute-Force-Angriff auf SSH mit Hydra            | Fortgeschritten | <a target='_blank' href='https://labex.io/de/tutorials/hydra-brute-force-ssh-in-hydra-549926'>Labor Starten</a>                      |
+|      11 | 📖 🔵 Brute-Force-Angriff auf SSH mit Hydra            | Fortgeschritten | <a target='_blank' href='https://labex.io/de/tutorials/hydra-brute-force-ssh-in-hydra-549926'>Labor Starten</a>                      |
+|      12 | 📖 🔵 Schwachstellen mit Nmap scannen                  | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/nmap-scan-vulnerabilities-in-nmap-549947'>Labor Starten</a>                   |
+|      13 | 📖 🔵 Dateien mit OpenSSL verschlüsseln                | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-encrypt-files-in-openssl-549935'>Labor Starten</a>                      |
+|      14 | 📖 🔵 Eine Backdoor in Netcat erstellen                | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-build-a-backdoor-in-netcat-549927'>Labor Starten</a>                    |
+|      15 | 📖 🔵 Netzwerkverkehr filtern in Wireshark             | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/wireshark-filter-traffic-in-wireshark-549939'>Labor Starten</a>               |
+|      16 | 📖 🔵 ZIP-Passwörter mit John the Ripper knacken       | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/hydra-crack-zip-passwords-in-john-the-ripper-549930'>Labor Starten</a>        |
+|      17 | 📖 🟢 Dateien in Tripwire überwachen                   | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/monitor-files-in-tripwire-549943'>Labor Starten</a>                           |
+|      18 | 📖 🟢 Ports mit Masscan scannen                        | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/nmap-scan-ports-with-masscan-549946'>Labor Starten</a>                        |
+|      19 | 📖 🔵 Daten in Steghide verstecken                     | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/hide-data-in-steghide-549941'>Labor Starten</a>                               |
+|      20 | 📖 🔵 Webserver mit Nikto scannen                      | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/nmap-scan-web-servers-in-nikto-549948'>Labor Starten</a>                      |
 
 ## Umgebung
 
