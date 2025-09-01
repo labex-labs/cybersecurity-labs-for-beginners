@@ -16,28 +16,28 @@
 
 ## 演習
 
-|   インデックス | 名前                                                   | 難易度   | 練習                                                                                                                                |
-|----------------|--------------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------------|
-|             01 | 📖 🟢 Hydra を使用したパスワードクラッキング           | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-using-hydra-to-crack-passwords-415960'>ラボを開始</a>                  |
-|             02 | 🎯 🟢 特定のユーザーアカウントのクラッキング           | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-cracking-a-specific-user-account-415951'>チャレンジを開始</a>          |
-|             03 | 📖 🟢 Nmap によるネットワークスキャン                  | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/nmap-network-scanning-with-nmap-415959'>ラボを開始</a>                       |
-|             04 | 🎯 🟢 Nmap を使用したサブネットのスキャン              | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/nmap-scanning-subnet-with-nmap-415954'>チャレンジを開始</a>                  |
-|             05 | 📖 🟢 OpenSSL を使用した暗号化入門                     | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-introduction-to-encryption-with-openssl-415957'>ラボを開始</a>         |
-|             06 | 🎯 🟢 極秘文書の解読                                   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-decrypting-top-secret-document-415952'>チャレンジを開始</a>            |
-|             07 | 📖 🟢 Netcat を使用したシンプルなネットワーク通信      | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-using-netcat-for-simple-network-communication-415961'>ラボを開始</a>   |
-|             08 | 🎯 🔵 Netcat を使用してメッセージを受信する            | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-receive-messages-using-netcat-415953'>チャレンジを開始</a>             |
-|             09 | 📖 🔵 Wireshark を使用したネットワーク分析             | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/wireshark-network-analysis-with-wireshark-415958'>ラボを開始</a>             |
-|             10 | 🎯 🔵 Wireshark で Google トラフィックをキャプチャする | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/wireshark-capture-google-traffic-with-wireshark-415948'>チャレンジを開始</a> |
-|             11 | 📖 🔵 Hydra で SSH ブルートフォース攻撃                | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/hydra-brute-force-ssh-in-hydra-549926'>ラボを開始</a>                        |
-|             12 | 📖 🔵 Nmap で脆弱性をスキャンする                      | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/nmap-scan-vulnerabilities-in-nmap-549947'>ラボを開始</a>                     |
-|             13 | 📖 🔵 OpenSSL でのファイル暗号化                       | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-encrypt-files-in-openssl-549935'>ラボを開始</a>                        |
-|             14 | 📖 🔵 Netcat でバックドアを構築する                    | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-build-a-backdoor-in-netcat-549927'>ラボを開始</a>                      |
-|             15 | 📖 🔵 Wireshark でのトラフィックフィルタリング         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/wireshark-filter-traffic-in-wireshark-549939'>ラボを開始</a>                 |
-|             16 | 📖 🔵 John the Ripper で ZIP パスワードをクラックする  | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/hydra-crack-zip-passwords-in-john-the-ripper-549930'>ラボを開始</a>          |
-|             17 | 📖 🟢 Tripwire でファイルを監視する                    | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/monitor-files-in-tripwire-549943'>ラボを開始</a>                             |
-|             18 | 📖 🟢 Masscan でポートをスキャンする                   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/nmap-scan-ports-with-masscan-549946'>ラボを開始</a>                          |
-|             19 | 📖 🔵 Steghide でデータを隠す方法                      | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/hide-data-in-steghide-549941'>ラボを開始</a>                                 |
-|             20 | 📖 🔵 Nikto による Web サーバーのスキャン              | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/nmap-scan-web-servers-in-nikto-549948'>ラボを開始</a>                        |
+|   インデックス | 名前                                                 | 難易度   | 練習                                                                                                                                |
+|----------------|------------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------------|
+|             01 | 📖 🆓 Hydra を使用したパスワードクラッキング         | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-using-hydra-to-crack-passwords-415960'>ラボを開始</a>                  |
+|             02 | 🎯 🆓 特定のユーザーアカウントのクラッキング         | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-cracking-a-specific-user-account-415951'>チャレンジを開始</a>          |
+|             03 | 📖 🆓 Nmap によるネットワークスキャン                | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/nmap-network-scanning-with-nmap-415959'>ラボを開始</a>                       |
+|             04 | 🎯 🆓 Nmap を使用したサブネットのスキャン            | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/nmap-scanning-subnet-with-nmap-415954'>チャレンジを開始</a>                  |
+|             05 | 📖 🆓 OpenSSL を使用した暗号化入門                   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-introduction-to-encryption-with-openssl-415957'>ラボを開始</a>         |
+|             06 | 🎯 🆓 極秘文書の解読                                 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-decrypting-top-secret-document-415952'>チャレンジを開始</a>            |
+|             07 | 📖 🆓 Netcat を使用したシンプルなネットワーク通信    | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-using-netcat-for-simple-network-communication-415961'>ラボを開始</a>   |
+|             08 | 🎯  Netcat を使用してメッセージを受信する            | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-receive-messages-using-netcat-415953'>チャレンジを開始</a>             |
+|             09 | 📖  Wireshark を使用したネットワーク分析             | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/wireshark-network-analysis-with-wireshark-415958'>ラボを開始</a>             |
+|             10 | 🎯  Wireshark で Google トラフィックをキャプチャする | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/wireshark-capture-google-traffic-with-wireshark-415948'>チャレンジを開始</a> |
+|             11 | 📖  Hydra で SSH ブルートフォース攻撃                | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/hydra-brute-force-ssh-in-hydra-549926'>ラボを開始</a>                        |
+|             12 | 📖  Nmap で脆弱性をスキャンする                      | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/nmap-scan-vulnerabilities-in-nmap-549947'>ラボを開始</a>                     |
+|             13 | 📖  OpenSSL でのファイル暗号化                       | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-encrypt-files-in-openssl-549935'>ラボを開始</a>                        |
+|             14 | 📖  Netcat でバックドアを構築する                    | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-build-a-backdoor-in-netcat-549927'>ラボを開始</a>                      |
+|             15 | 📖  Wireshark でのトラフィックフィルタリング         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/wireshark-filter-traffic-in-wireshark-549939'>ラボを開始</a>                 |
+|             16 | 📖  John the Ripper で ZIP パスワードをクラックする  | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/hydra-crack-zip-passwords-in-john-the-ripper-549930'>ラボを開始</a>          |
+|             17 | 📖  Tripwire でファイルを監視する                    | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/monitor-files-in-tripwire-549943'>ラボを開始</a>                             |
+|             18 | 📖  Masscan でポートをスキャンする                   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/nmap-scan-ports-with-masscan-549946'>ラボを開始</a>                          |
+|             19 | 📖  Steghide でデータを隠す方法                      | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/hide-data-in-steghide-549941'>ラボを開始</a>                                 |
+|             20 | 📖  Nikto による Web サーバーのスキャン              | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/nmap-scan-web-servers-in-nikto-549948'>ラボを開始</a>                        |
 
 ## 環境
 
