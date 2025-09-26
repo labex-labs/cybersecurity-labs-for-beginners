@@ -34,9 +34,9 @@
 |       14 | 📖  Netcat 으로 백도어 구축하기              | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-build-a-backdoor-in-netcat-549927'>실습 시작</a>                    |
 |       15 | 📖  Wireshark 에서 트래픽 필터링하기         | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/wireshark-filter-traffic-in-wireshark-549939'>실습 시작</a>               |
 |       16 | 📖  John the Ripper 로 ZIP 비밀번호 크랙하기 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/hydra-crack-zip-passwords-in-john-the-ripper-549930'>실습 시작</a>        |
-|       17 | 📖  Tripwire 로 파일 모니터링하기            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/monitor-files-in-tripwire-549943'>실습 시작</a>                           |
+|       17 | 📖  Tripwire 로 파일 모니터링하기            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-monitor-files-in-tripwire-549943'>실습 시작</a>                     |
 |       18 | 📖  Masscan 으로 포트 스캔하기               | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/nmap-scan-ports-with-masscan-549946'>실습 시작</a>                        |
-|       19 | 📖  Steghide 로 데이터 숨기기                | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/hide-data-in-steghide-549941'>실습 시작</a>                               |
+|       19 | 📖  Steghide 로 데이터 숨기기                | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-hide-data-in-steghide-549941'>실습 시작</a>                         |
 |       20 | 📖  Nikto 를 사용하여 웹 서버 스캔하기       | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/nmap-scan-web-servers-in-nikto-549948'>실습 시작</a>                      |
 
 ## 환경
