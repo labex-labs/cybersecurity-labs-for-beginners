@@ -34,9 +34,9 @@ Explora los conceptos básicos de la ciberseguridad a través de laboratorios in
 |       14 | 📖  Crear una Puerta Trasera en Netcat                 | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-build-a-backdoor-in-netcat-549927'>Iniciar Laboratorio</a>                    |
 |       15 | 📖  Filtrar Tráfico en Wireshark                       | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/wireshark-filter-traffic-in-wireshark-549939'>Iniciar Laboratorio</a>               |
 |       16 | 📖  Descifrar Contraseñas ZIP con John the Ripper      | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/hydra-crack-zip-passwords-in-john-the-ripper-549930'>Iniciar Laboratorio</a>        |
-|       17 | 📖  Monitorizar Archivos en Tripwire                   | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/monitor-files-in-tripwire-549943'>Iniciar Laboratorio</a>                           |
+|       17 | 📖  Monitorizar Archivos en Tripwire                   | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-monitor-files-in-tripwire-549943'>Iniciar Laboratorio</a>                     |
 |       18 | 📖  Escanear Puertos con Masscan                       | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/nmap-scan-ports-with-masscan-549946'>Iniciar Laboratorio</a>                        |
-|       19 | 📖  Ocultar Datos con Steghide                         | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/hide-data-in-steghide-549941'>Iniciar Laboratorio</a>                               |
+|       19 | 📖  Ocultar Datos con Steghide                         | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/linux-hide-data-in-steghide-549941'>Iniciar Laboratorio</a>                         |
 |       20 | 📖  Escanear Servidores Web con Nikto                  | Principiante | <a target='_blank' href='https://labex.io/es/tutorials/nmap-scan-web-servers-in-nikto-549948'>Iniciar Laboratorio</a>                      |
 
 ## Entorno
