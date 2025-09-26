@@ -34,9 +34,9 @@ Explore os fundamentos da cibersegurança através de laboratórios interativos 
 |       14 | 📖  Construir um Backdoor em Netcat                  | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-build-a-backdoor-in-netcat-549927'>Iniciar Lab</a>                    |
 |       15 | 📖  Filtrar Tráfego no Wireshark                     | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/wireshark-filter-traffic-in-wireshark-549939'>Iniciar Lab</a>               |
 |       16 | 📖  Quebrar Senhas ZIP no John the Ripper            | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/hydra-crack-zip-passwords-in-john-the-ripper-549930'>Iniciar Lab</a>        |
-|       17 | 📖  Monitorar Arquivos no Tripwire                   | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/monitor-files-in-tripwire-549943'>Iniciar Lab</a>                           |
+|       17 | 📖  Monitorar Arquivos no Tripwire                   | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-monitor-files-in-tripwire-549943'>Iniciar Lab</a>                     |
 |       18 | 📖  Escaneamento de Portas com Masscan               | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/nmap-scan-ports-with-masscan-549946'>Iniciar Lab</a>                        |
-|       19 | 📖  Ocultar Dados com Steghide                       | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/hide-data-in-steghide-549941'>Iniciar Lab</a>                               |
+|       19 | 📖  Ocultar Dados com Steghide                       | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/linux-hide-data-in-steghide-549941'>Iniciar Lab</a>                         |
 |       20 | 📖  Escanear Servidores Web com Nikto                | Iniciante     | <a target='_blank' href='https://labex.io/pt/tutorials/nmap-scan-web-servers-in-nikto-549948'>Iniciar Lab</a>                      |
 
 ## Ambiente
