@@ -34,9 +34,9 @@
 |     14 | 📖  使用 Netcat 构建后门               | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-build-a-backdoor-in-netcat-549927'>开始实验</a>                    |
 |     15 | 📖  在 Wireshark 中过滤流量            | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/wireshark-filter-traffic-in-wireshark-549939'>开始实验</a>               |
 |     16 | 📖  使用 John the Ripper 破解 ZIP 密码 | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/hydra-crack-zip-passwords-in-john-the-ripper-549930'>开始实验</a>        |
-|     17 | 📖  在 Tripwire 中监控文件             | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/monitor-files-in-tripwire-549943'>开始实验</a>                           |
+|     17 | 📖  在 Tripwire 中监控文件             | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-monitor-files-in-tripwire-549943'>开始实验</a>                     |
 |     18 | 📖  使用 Masscan 扫描端口              | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-scan-ports-with-masscan-549946'>开始实验</a>                        |
-|     19 | 📖  使用 Steghide 隐藏数据             | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/hide-data-in-steghide-549941'>开始实验</a>                               |
+|     19 | 📖  使用 Steghide 隐藏数据             | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/linux-hide-data-in-steghide-549941'>开始实验</a>                         |
 |     20 | 📖  使用 Nikto 扫描 Web 服务器         | 初级   | <a target='_blank' href='https://labex.io/zh/tutorials/nmap-scan-web-servers-in-nikto-549948'>开始实验</a>                      |
 
 ## 学习环境
