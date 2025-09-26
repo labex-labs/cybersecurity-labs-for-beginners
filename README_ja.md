@@ -34,9 +34,9 @@
 |             14 | 📖  Netcat でバックドアを構築する                    | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-build-a-backdoor-in-netcat-549927'>ラボを開始</a>                      |
 |             15 | 📖  Wireshark でのトラフィックフィルタリング         | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/wireshark-filter-traffic-in-wireshark-549939'>ラボを開始</a>                 |
 |             16 | 📖  John the Ripper で ZIP パスワードをクラックする  | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/hydra-crack-zip-passwords-in-john-the-ripper-549930'>ラボを開始</a>          |
-|             17 | 📖  Tripwire でファイルを監視する                    | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/monitor-files-in-tripwire-549943'>ラボを開始</a>                             |
+|             17 | 📖  Tripwire でファイルを監視する                    | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-monitor-files-in-tripwire-549943'>ラボを開始</a>                       |
 |             18 | 📖  Masscan でポートをスキャンする                   | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/nmap-scan-ports-with-masscan-549946'>ラボを開始</a>                          |
-|             19 | 📖  Steghide でデータを隠す方法                      | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/hide-data-in-steghide-549941'>ラボを開始</a>                                 |
+|             19 | 📖  Steghide でデータを隠す方法                      | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/linux-hide-data-in-steghide-549941'>ラボを開始</a>                           |
 |             20 | 📖  Nikto による Web サーバーのスキャン              | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/nmap-scan-web-servers-in-nikto-549948'>ラボを開始</a>                        |
 
 ## 環境
