@@ -34,9 +34,9 @@ Explore the basics of cyber security through 20 interactive, beginner-friendly l
 |      14 | 📖  Build a Backdoor in Netcat                      | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-build-a-backdoor-in-netcat-549927'>Start Lab</a>                      |
 |      15 | 📖  Filter Traffic in Wireshark                     | Beginner     | <a target='_blank' href='https://labex.io/tutorials/wireshark-filter-traffic-in-wireshark-549939'>Start Lab</a>                 |
 |      16 | 📖  Crack ZIP Passwords in John the Ripper          | Beginner     | <a target='_blank' href='https://labex.io/tutorials/hydra-crack-zip-passwords-in-john-the-ripper-549930'>Start Lab</a>          |
-|      17 | 📖  Monitor Files in Tripwire                       | Beginner     | <a target='_blank' href='https://labex.io/tutorials/monitor-files-in-tripwire-549943'>Start Lab</a>                             |
+|      17 | 📖  Monitor Files in Tripwire                       | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-monitor-files-in-tripwire-549943'>Start Lab</a>                       |
 |      18 | 📖  Scan Ports with Masscan                         | Beginner     | <a target='_blank' href='https://labex.io/tutorials/nmap-scan-ports-with-masscan-549946'>Start Lab</a>                          |
-|      19 | 📖  Hide Data in Steghide                           | Beginner     | <a target='_blank' href='https://labex.io/tutorials/hide-data-in-steghide-549941'>Start Lab</a>                                 |
+|      19 | 📖  Hide Data in Steghide                           | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-hide-data-in-steghide-549941'>Start Lab</a>                           |
 |      20 | 📖  Scan Web Servers in Nikto                       | Beginner     | <a target='_blank' href='https://labex.io/tutorials/nmap-scan-web-servers-in-nikto-549948'>Start Lab</a>                        |
 
 ## Environment
