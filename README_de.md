@@ -34,9 +34,9 @@ Entdecken Sie die Grundlagen der Cybersicherheit durch interaktive, anfängerfre
 |      14 | 📖  Eine Backdoor in Netcat erstellen                  | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-build-a-backdoor-in-netcat-549927'>Labor Starten</a>                    |
 |      15 | 📖  Netzwerkverkehr filtern in Wireshark               | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/wireshark-filter-traffic-in-wireshark-549939'>Labor Starten</a>               |
 |      16 | 📖  ZIP-Passwörter mit John the Ripper knacken         | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/hydra-crack-zip-passwords-in-john-the-ripper-549930'>Labor Starten</a>        |
-|      17 | 📖  Dateien in Tripwire überwachen                     | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/monitor-files-in-tripwire-549943'>Labor Starten</a>                           |
+|      17 | 📖  Dateien in Tripwire überwachen                     | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-monitor-files-in-tripwire-549943'>Labor Starten</a>                     |
 |      18 | 📖  Ports mit Masscan scannen                          | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/nmap-scan-ports-with-masscan-549946'>Labor Starten</a>                        |
-|      19 | 📖  Daten in Steghide verstecken                       | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/hide-data-in-steghide-549941'>Labor Starten</a>                               |
+|      19 | 📖  Daten in Steghide verstecken                       | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/linux-hide-data-in-steghide-549941'>Labor Starten</a>                         |
 |      20 | 📖  Webserver mit Nikto scannen                        | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/nmap-scan-web-servers-in-nikto-549948'>Labor Starten</a>                      |
 
 ## Umgebung
