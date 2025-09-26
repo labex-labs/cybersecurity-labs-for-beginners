@@ -34,9 +34,9 @@ Explorez les bases de la sécurité informatique grâce à des laboratoires inte
 |      14 | 📖  Créer une backdoor avec Netcat                          | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/linux-build-a-backdoor-in-netcat-549927'>Commencer le Lab</a>                    |
 |      15 | 📖  Filtrer le trafic dans Wireshark                        | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/wireshark-filter-traffic-in-wireshark-549939'>Commencer le Lab</a>               |
 |      16 | 📖  Casser les mots de passe ZIP avec John the Ripper       | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/hydra-crack-zip-passwords-in-john-the-ripper-549930'>Commencer le Lab</a>        |
-|      17 | 📖  Surveiller les fichiers avec Tripwire                   | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/monitor-files-in-tripwire-549943'>Commencer le Lab</a>                           |
+|      17 | 📖  Surveiller les fichiers avec Tripwire                   | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/linux-monitor-files-in-tripwire-549943'>Commencer le Lab</a>                     |
 |      18 | 📖  Scanner les Ports avec Masscan                          | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/nmap-scan-ports-with-masscan-549946'>Commencer le Lab</a>                        |
-|      19 | 📖  Cacher des données avec Steghide                        | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/hide-data-in-steghide-549941'>Commencer le Lab</a>                               |
+|      19 | 📖  Cacher des données avec Steghide                        | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/linux-hide-data-in-steghide-549941'>Commencer le Lab</a>                         |
 |      20 | 📖  Scanner les serveurs web avec Nikto                     | Débutant      | <a target='_blank' href='https://labex.io/fr/tutorials/nmap-scan-web-servers-in-nikto-549948'>Commencer le Lab</a>                      |
 
 ## Environnement
